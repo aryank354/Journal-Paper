@@ -1,0 +1,4 @@
+fpdf 
+scikit-image 
+opencv-python 
+numpy
